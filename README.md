@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Atjacp2093
-- 👀 I’m interested in Game project
-- 🌱 I’m currently learning Java, JavaScript, PHP, Python,....
+- 👀 I’m interested in App, Game project
+- 🌱 I’m currently learning Java, PHP, Python,....
 - 📫 How to reach me <facebook.com/dta2093>
 
 <!---
